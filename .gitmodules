@@ -1,0 +1,4 @@
+[submodule "abakus-it/website_sale"]
+	path = abakus-it/website_sale
+	url = git@github.com:abakus-it/website_sale.git
+	branch = 10.0
