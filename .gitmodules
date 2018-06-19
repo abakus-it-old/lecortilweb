@@ -1,8 +1,0 @@
-[submodule "abakus-it/website_sale"]
-	path = abakus-it/website_sale
-	url = git@github.com:abakus-it/website_sale.git
-	branch = 10.0
-[submodule "abakus-it/website_payment"]
-	path = abakus-it/website_payment
-	url = git@gitlab.com:abakus-it/odoo-private/website_payment.git
-	branch = 10.0
