@@ -7,3 +7,8 @@
 	path = abakus-it/website_payment
 	url = git@gitlab.com:abakus-it/odoo-private/website_payment.git
 	branch = 10.0_widget
+
+[submodule "OCA/report-print-send"]
+	path = OCA/report-print-send
+	url = git@github.com:OCA/report-print-send.git
+	branch = 10.0
